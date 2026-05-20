@@ -1,7 +1,6 @@
 # ============================================================
 # TrustLens — Notebook Requirements
 # ============================================================
-# DTSC 5525 | Girivarshini Varatha Raja, Kishore Dinakaran, Jaya Bharathi Sanjay
 #
 # These requirements match Notebook Cell 1 exactly and have been tested
 # end-to-end on Google Colab (T4 GPU, Python 3.10).
