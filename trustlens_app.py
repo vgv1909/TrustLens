@@ -1,6 +1,5 @@
 """
 TrustLens: Hybrid Hallucination Detection — Streamlit Demo
-DTSC 5525 | Girivarshini Varatha Raja, Kishore Dinakaran, Jaya Bharathi Sanjay
 
 Features:
   - Claim-level color coding (Supported / Contradicted / Uncertain / Unverifiable)
